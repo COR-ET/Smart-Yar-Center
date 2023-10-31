@@ -21,7 +21,7 @@ To get started with the Center of Public YARA Rules Research, follow these steps
 1. **Clone the Repository**: You can clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/smart-yara-center.git
+   git clone https://github.com/COR-ET/Smart-Yar-Center.git
    ```
 
 
