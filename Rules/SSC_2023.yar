@@ -1,3 +1,11 @@
+// Warning !!
+// This Rules has been Collected , Developed by SSC Search Center, use them in caution.
+// All Rules here from first collection (2021) until latest .
+
+// !! All Rules Level are `High`.
+// !! All Rules Detection Level for the one rule : `5~6/10`
+
+
 rule SSC_Doc_VBA_InfectedX
 {
 meta:
