@@ -1,4 +1,4 @@
-# Center of Public YARA Rules Research
+# SSC Research Center of Public YARA Rules Research
 
 Welcome to the Center of Public YARA Rules Research repository by our team. This repository is a dedicated hub for collecting and sharing YARA rules that enhance Smart Threat Security Protection and the latest threat databases.
 
